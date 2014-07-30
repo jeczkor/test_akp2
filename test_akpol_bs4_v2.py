@@ -1,8 +1,8 @@
 #!/usr/bin/python
 
 dane = { 'submit':'Login',
-         'myusername':'mateusz',
-         'mypassword':'2mat1ti',
+         'myusername':'',
+         'mypassword':'',
          'co':'a%%',
          'button':'szukaj'}
 
